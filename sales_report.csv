@@ -1,0 +1,2 @@
+TransactionID,Date,ProductID,ProductName,Quantity,UnitPrice,CustomerID,Region,TotalAmount
+T018,2024-12-29,P107,USB Cable,8,173.0,C009,South,1384.0
